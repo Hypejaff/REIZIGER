@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1011035156707",
+    "firebase_url": "https://reiziger.firebaseio.com",
+    "project_id": "reiziger",
+    "storage_bucket": "reiziger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011035156707:android:e68ea242a2a45b1f",
+        "android_client_info": {
+          "package_name": "com.example.jaff.reiziger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011035156707-14bf27hj4h4ccvimkhqminn6r1vojarv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaff.reiziger",
+            "certificate_hash": "d84f7b91040626cba47127f2135a14680879cb47"
+          }
+        },
+        {
+          "client_id": "1011035156707-fdp1k9j2lq8v4biba7eh7eccu69mef0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoEcWU3AtP-oU6Hz0zFWH_VkDutcFGwYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011035156707-fdp1k9j2lq8v4biba7eh7eccu69mef0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
